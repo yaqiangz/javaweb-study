@@ -1,9 +1,12 @@
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
+<%--定义在错误页面--%>
 <head>
     <title>Title</title>
 </head>
 <body>
-<h1>Success</h1>
+<%
+    int x = 1/ 0;
+%>
 </body>
 </html>

@@ -4,6 +4,8 @@
     <title>Title</title>
 </head>
 <body>
-<h1>Success</h1>
+<%
+%>
+<img src="<%=request.getContextPath()%>/img/500.png" alt="500">
 </body>
 </html>

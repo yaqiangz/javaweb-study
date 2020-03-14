@@ -4,6 +4,9 @@
     <title>Title</title>
 </head>
 <body>
-<h1>Success</h1>
+<%
+    String name = "lala的";
+%>
+name: <%=name%>
 </body>
 </html>

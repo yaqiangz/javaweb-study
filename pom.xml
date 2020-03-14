@@ -13,10 +13,11 @@
         <module>javaweb-02-servlet-01</module>
         <module>javaweb-02-servlet-02</module>
         <module>javaweb-03-response</module>
-        <module>test</module>
-        <module>test</module>
         <module>javaweb-03-request</module>
         <module>javaweb-04-session-cookie</module>
+        <module>javaweb-05-jsp</module>
+        <module>javaweb-06-filter</module>
+        <module>javaweb-07-jdbc</module>
     </modules>
     <dependencies>
         <!-- https://mvnrepository.com/artifact/javax.servlet.jsp/javax.servlet.jsp-api -->

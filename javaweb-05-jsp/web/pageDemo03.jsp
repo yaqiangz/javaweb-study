@@ -4,6 +4,9 @@
     <title>Title</title>
 </head>
 <body>
-<h1>Success</h1>
+<%
+    pageContext.setAttribute("hello1", "hello1", PageContext.APPLICATION_SCOPE);
+    // application.setAttribute();
+%>
 </body>
 </html>
